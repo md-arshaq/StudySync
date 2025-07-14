@@ -5,6 +5,8 @@ StudySync is a modern, responsive landing page for an educational platform. Buil
 ## SCREENSHOTS
 
 ![Project Screenshot](screenshots/ss1.png)
+![Project Screenshot](screenshots/ss2.png)
+![Project Screenshot](screenshots/ss3.png)
 
 ## Features
 
