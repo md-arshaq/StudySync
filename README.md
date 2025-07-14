@@ -4,7 +4,8 @@ StudySync is a modern, responsive landing page for an educational platform. Buil
 
 ## SCREENSHOTS
 
-<img src="screenshots/ss1.png" alt="Project Screenshot" style="border-radius: 10px;" />
+
+![Project Screenshot](screenshots/ss1.png)
 ![Project Screenshot](screenshots/ss2.png)
 ![Project Screenshot](screenshots/ss3.png)
 
