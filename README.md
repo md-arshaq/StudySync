@@ -2,6 +2,10 @@
 
 StudySync is a modern, responsive landing page for an educational platform. Built with HTML and CSS, it showcases seamless learning features, trusted partners, competitive advantages, testimonials, newsletter signup, and a detailed footer.
 
+## SCREENSHOTS
+
+![Project Screenshot](screenshots/ss1.png)
+
 ## Features
 
 - **Responsive Design:** Works well on desktops, tablets, and mobile devices.
@@ -66,15 +70,6 @@ StudySync/
 - Replace images in the `images/` folder to match your brand.
 - Edit text content in `index.html` for your own messaging.
 - Adjust colors and fonts in `styles.css` as needed.
-
-## Deployment
-
-You can deploy this project using [GitHub Pages](https://pages.github.com/):
-
-1. Push your code to GitHub.
-2. Go to your repository settings.
-3. Under "Pages", set the source to the `main` branch and `/root`.
-4. Your site will be live at `https://YOUR-USERNAME.github.io/StudySync/`.
 
 ## License
 
